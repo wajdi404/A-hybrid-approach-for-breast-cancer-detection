@@ -27,11 +27,11 @@ the wonderful news is that its treatment can be highly effective, achieving surv
 #### Project Workflow
 
 <div>
- <img style="text-align: center;margin: auto;display: block" src="figures/Project-Workflow.png" width="900"/>
+ <img style="text-align: center;margin: auto;display: block" src="figures/Project-Workflow.png" width="%100"/>
 </div>
 
 #### (1) Data Exploration
 
 <div>
- <img style="text-align: center;margin: auto;display: block" src="figures/Project-Workflow.png" width="900"/>
+ <img style="text-align: center;margin: auto;display: block" src="figures/Data-Exploration.jpg" width="%100"/>
 </div>
