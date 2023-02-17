@@ -24,4 +24,14 @@ Breast cancer is a dangerous kind of cancer that develops in the cells of the br
 the wonderful news is that its treatment can be highly effective, achieving survival probabilities of 90% or much higher, particularly when diagnosed early. Motivated by this fact, we intend out of our moral and humanitarian duty, to support healthcare professionals in diagnosing diseases. Through designing and implementing a computer-aided diagnosis (CAD) system that can analyze mammogram images and identify and isolate suspicious areas that may require further evaluation by a radiologist. 
 </p>
 
-### Project Workflow
+#### Project Workflow
+
+<div>
+ <img style="text-align: center;margin: auto;display: block" src="figures/Project-Workflow.png" width="900"/>
+</div>
+
+#### (1) Data Exploration
+
+<div>
+ <img style="text-align: center;margin: auto;display: block" src="figures/Project-Workflow.png" width="900"/>
+</div>
