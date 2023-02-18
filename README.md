@@ -33,5 +33,5 @@ the wonderful news is that its treatment can be highly effective, achieving surv
 #### (1) Data Exploration
 
 <div>
- <img style="text-align: center;margin: auto;display: block" src="figures/Data-Exploration.jpg" width="%100"/>
+ <img style="text-align: center;margin: auto;display: block" src="figures/Data-Exploration-1.jpg" width="%100"/>
 </div>
