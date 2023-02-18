@@ -35,3 +35,5 @@ the wonderful news is that its treatment can be highly effective, achieving surv
 <div>
  <img style="text-align: center;margin: auto;display: block" src="figures/Data-Exploration-1.jpg" width="%100"/>
 </div>
+
+#### (2) Data Preparation
